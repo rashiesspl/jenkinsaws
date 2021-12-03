@@ -1,6 +1,4 @@
-<?php
-
-echo "hello world this text is in php";
+<?php 
+echo "Hello World - Amrit Sharma - This is blue Green Deploymeny";
 
 ?>
-<html>Hi this is HTML</html>
